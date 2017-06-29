@@ -5,10 +5,10 @@
 
     "builddrafts": false,
 
-    "baseurl": "http://tummychow.github.io/lanyon-hugo/",
+    "baseurl": "https://daeshu.github.io/lanyon-hugo/",
     "canonifyurls": true,
     "permalinks": {
-        "post": ":year/:month/:day/:title/",
+        "post": ":day/:month/:year/:title/",
         "fixed": ":title/"
     },
 
